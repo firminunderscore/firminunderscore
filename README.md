@@ -1,6 +1,6 @@
 # Hello there ! 👋
 
-💻 Running on **Fedora/Windows11**<br>
+💻 Running on **Fedora/Windows**<br>
 🛠️ Using **VS Code**<br>
 💬 Available on **[Discord](http://discord.com/users/1087664832863547493)**
 
