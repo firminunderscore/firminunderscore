@@ -1,9 +1,7 @@
 # Hello there ! 👋
 
 💻 Running on **Fedora/Windows11**
-
 🛠️ Using **VS Code**
-
 💬 Available on **[Discord](http://discord.com/users/1087664832863547493)**
 
 ## Stats
