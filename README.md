@@ -1,5 +1,5 @@
 # Hello there ! 👋
-💻 Running on **Fedora/Windows**<br>
+💻 Running on **Windows**<br>
 🛠️ Using **VS Code**<br>
 💬 Available on **[Discord](http://discord.com/users/1087664832863547493)**
 ## Stats
