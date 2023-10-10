@@ -1,5 +1,5 @@
 # Hello there ! 👋
-💻 Running on **Windows**<br>
+💻 Running on **Linux** (bc Windows is shit, but still using it for Adobe and gaming)<br>
 🛠️ Using **VS Code**<br>
 💬 Available on **[Discord](http://discord.com/users/1087664832863547493)**
 ## Stats
