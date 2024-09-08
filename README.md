@@ -1,6 +1,6 @@
 # Hello there ! 👋
-💻 Stuck on Windows (cause I do some gaming, but let's be real, Linux is so much better)<br>
-🛠️ Using VS Code (I've removed JetBrains IDEs)<br>
+💻 Now using Linux and Windows
+🛠️ Using VS Code and Bun.js<br>
 💬 Reach me on **[Discord](http://discord.com/users/1087664832863547493)**<br>
 
 <!---
