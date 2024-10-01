@@ -1,7 +1,7 @@
 # Hello there ! 👋
 💻 Now using Linux and Windows<br>
-🛠️ Using VS Code and Bun.js<br>
-💬 Reach me on **[Discord](http://discord.com/users/1087664832863547493)**<br>
+🛠️ Using VS Code and Bun.js to build amazing things<br>
+💬 You can reach me on **[Discord](http://discord.com/users/1087664832863547493)**<br>
 
 <!---
 ## Stats
